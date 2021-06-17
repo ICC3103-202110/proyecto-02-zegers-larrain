@@ -1,0 +1,30 @@
+{
+  "name": "prompt",
+  "version": "1.0.0",
+  "main": "lab-4.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "console-table-printer": "^2.9.0",
+    "dotenv": "^10.0.0",
+    "enquirer": "^2.3.6",
+    "figlet": "^1.5.0",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICC3103-202110/laboratorio-04-jmzegers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICC3103-202110/laboratorio-04-jmzegers/issues"
+  },
+  "homepage": "https://github.com/ICC3103-202110/laboratorio-04-jmzegers#readme",
+  "description": ""
+}
